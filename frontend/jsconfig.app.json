@@ -1,0 +1,9 @@
+ {
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/fa*": ["./src/*"]
+    }
+  },
+  "include": ["src"]
+}
